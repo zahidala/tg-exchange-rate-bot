@@ -18,6 +18,7 @@
   "devDependencies": {
     "@404-software/eslint-config": "^1.0.37",
     "@types/node": "^24.10.0",
+    "@types/node-fetch": "^2.6.13",
     "@typescript-eslint/eslint-plugin": "^8.46.3",
     "@typescript-eslint/parser": "^8.46.3",
     "eslint": "^8.57.1",
